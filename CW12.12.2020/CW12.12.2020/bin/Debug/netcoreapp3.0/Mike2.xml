@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Mike</Name>
+    <BirthDate>1990-01-01T00:00:00</BirthDate>
+    <Additional>Something...</Additional>
+  </Person>
+  <Person>
+    <Name>John</Name>
+    <BirthDate>1992-01-01T00:00:00</BirthDate>
+    <Additional>Without additional info</Additional>
+  </Person>
+</ArrayOfPerson>
